@@ -1,2 +1,2 @@
 "# Algebra-test" 
-komwenar
+komentar
